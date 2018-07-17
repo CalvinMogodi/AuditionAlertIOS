@@ -1,0 +1,42 @@
+page-uploadevent {
+  .center{
+     text-align:center;
+}
+ion-content {
+     background-image: url('../assets/imgs/background.png');
+    background-position: center;
+    background-size: cover;
+}
+.item-md {
+    background-color: transparent !important;
+}
+ion-item{
+    background: transparent !important
+}
+ion-label{
+    color: darkgray;
+}
+ion-input{
+    color: white;
+}
+ion-textarea{
+    color: white;
+}
+ion-datetime{
+    color: white;
+}
+.summitbutton{
+        width: 150px;
+    height: 30px !important;
+}
+
+.invalid{
+    border-bottom: 1px solid #ea6153;
+}
+
+.item-trns {
+	border-color: rgba(0, 0, 0, 0);
+	background-color: rgba(0, 0, 0, 0);
+	color: white; 
+}
+}

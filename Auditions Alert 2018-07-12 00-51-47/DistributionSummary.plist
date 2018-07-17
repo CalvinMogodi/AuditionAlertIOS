@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Auditions Alert.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>CD2BF1397EB3DE5BB268D69CD96B9D7F5678128B</string>
+				<key>dateExpires</key>
+				<string>12/25/18</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>R274V6483T.io.ionic.auditionsalertsa</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>R274V6483T</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Auditions Alert.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4df30c94-499e-4337-b6fe-4670ddf1fb91</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>R274V6483T</string>
+				<key>name</key>
+				<string>Calvin Mogodi</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

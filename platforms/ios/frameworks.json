@@ -1,0 +1,14 @@
+{
+    "Security.framework": 2,
+    "SystemConfiguration.framework": 1,
+    "ImageIO.framework": 1,
+    "CoreLocation.framework": 1,
+    "AVFoundation.framework": 2,
+    "WebKit.framework": 1,
+    "libz.tbd": 3,
+    "Foundation.framework": 1,
+    "AudioToolbox.framework": 1,
+    "libc++.tbd": 1,
+    "AddressBook.framework": 1,
+    "libsqlite3.0.tbd": 1
+}
